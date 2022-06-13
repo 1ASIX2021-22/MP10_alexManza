@@ -142,7 +142,7 @@ Ens torna a donar errors perquè aquest paquet necessita altres dependències. H
 apt --fix-broken install
 ```
 
-<img src="images/Imatge12.png" >
+<img src="https://user-images.githubusercontent.com/91521595/173459741-22c555d9-5c4e-429b-9678-3733bdaf7711.png" >
 
 Un cop fet això, si busquem als programes de ubuntu "Workbench" veurem que tenim aquest instal·lat i el podem executar des de allí mateix.
 
