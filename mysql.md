@@ -26,7 +26,7 @@ El primer pas que realitzarem serà instal·lar a la màquina mysql-server per t
 Instal·lem mysql-server amb el gestor de paquets de ubuntu (apt).
 ```
 
-<img src="(https://user-images.githubusercontent.com/91521595/173458283-6824b4b4-d3c5-4b18-a9d6-c8727312dcea.PNG)">
+<img src="https://user-images.githubusercontent.com/91521595/173458283-6824b4b4-d3c5-4b18-a9d6-c8727312dcea.PNG">
 
 En instal·lar mysql-server, també ens instal·larà el client. Un cop ha acabat utilitzem la comanda mysql al terminal i revisem el resultat.
 
