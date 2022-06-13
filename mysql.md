@@ -142,17 +142,17 @@ Ens torna a donar errors perquè aquest paquet necessita altres dependències. H
 apt --fix-broken install
 ```
 
-<img src="https://user-images.githubusercontent.com/91521595/173459741-22c555d9-5c4e-429b-9678-3733bdaf7711.png" >
+<img src="https://user-images.githubusercontent.com/91521595/173459633-6feb97d4-85ef-455c-a2e5-994b74970df3.PNG" >
 
 Un cop fet això, si busquem als programes de ubuntu "Workbench" veurem que tenim aquest instal·lat i el podem executar des de allí mateix.
 
-<img src="https://user-images.githubusercontent.com/91521595/173459633-6feb97d4-85ef-455c-a2e5-994b74970df3.PNG" >
+<img src="https://user-images.githubusercontent.com/91521595/173459919-b6fc5c72-6d36-4d50-9b68-dd6d72099330.PNG" >
 
 ### Preparem l'entorn (MySQL Workbench)
 
 Un cop hem obert MySQL Workbench, veurem que ens surt una instància per poder accedir a localhost amb usuari root. El problema és que les credencials no són correctes i, per tant, no podrem accedir.
 
-<img src="https://user-images.githubusercontent.com/91521595/173459666-92bb959b-595c-4050-a3c2-da87980ec6a3.PNG" >
+<img src="https://user-images.githubusercontent.com/91521595/173459741-22c555d9-5c4e-429b-9678-3733bdaf7711.png" >
 
 Per solucionar aquest error, podem generar les credencials o bé preparar una instància amb les credencials que actualment sí que són les correctes.
 
